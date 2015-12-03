@@ -1,0 +1,22 @@
+{
+  "name": "auger",
+  "version": "1.0.0",
+  "description": "Readline with promises",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readline",
+    "promise"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "penumbra": "^1.0.6",
+    "vinyl-fs": "^2.2.1"
+  }
+}
