@@ -1,3 +1,7 @@
+/*
+git remote add origin https://github.com/hollowdoor/auger.git
+git push -u origin master
+*/
 module.exports = function(rl){
     return new Auger(rl);
 };
