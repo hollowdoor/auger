@@ -1,6 +1,6 @@
 {
   "name": "auger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Readline with promises",
   "main": "index.js",
   "directories": {
@@ -18,5 +18,9 @@
   "devDependencies": {
     "penumbra": "^1.0.6",
     "vinyl-fs": "^2.2.1"
-  }
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/hollowdoor/auger.git"
+    }
 }
